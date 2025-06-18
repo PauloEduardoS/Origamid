@@ -1,0 +1,8 @@
+.Btn {
+  background-color: #008cba !important; /* Blue */
+  /* color: #008567;  */
+  border: none;
+  padding: 0.5rem;
+  margin-inline: 0.5rem;
+  border-radius: 0.25rem;
+}
